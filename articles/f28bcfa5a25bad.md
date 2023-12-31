@@ -3,7 +3,7 @@ title: "2023年の振り返り"
 emoji: "🐈"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["振り返り", "2023" ]
-published: false
+published: true
 ---
 
 
