@@ -23,6 +23,7 @@ https://zenn.dev/ikepe/articles/bab703c70a0ab2
 
 ### 8月
 - セキュリティ・キャンプ全国大会
+
 https://zenn.dev/ikepe/articles/01f1c7e5a9f1ee
 
 ### 9月
@@ -42,28 +43,34 @@ https://twitter.com/ikepe_main/status/1719139421663248731
 - ICTトラブルシューティングコンテスト(ICTSC)
   サークルのメンバーでICTSCに参加しました。点数は全然取れませんでしたが、勉強で知識がつきました。来年は本選に進みたいです。
 
-  https://twitter.com/ikepe_main/status/1735874090714767431
+https://twitter.com/ikepe_main/status/1735874090714767431
 
 - セキュリティ・ミニキャンプ in 広島
   Zenn 書こうと思ってまだ途中までしか書けてない・・・
 
-  https://twitter.com/ikepe_main/status/1728202252807282989
+https://twitter.com/ikepe_main/status/1728202252807282989
 
 ### 12月
 - IPv6 勉強会
   秋から月1で行われているIPv6勉強会で初めての対面開催でした。
-  
-  https://twitter.com/ikepe_main/status/1739539483975176501
+
+https://twitter.com/ikepe_main/status/1739539483975176501
 
 
 ## 2024年の目標
 ### 参加したい(する)イベント
 - P3NFEST(2/17)
-  https://issuehunt.jp/events/2024/p3nfestconf
+
+https://issuehunt.jp/events/2024/p3nfestconf
+
 - 防衛省サイバーコンテスト(2/25)
-  https://www.mod.go.jp/j/approach/defense/cyber/c_contest/
+
+https://www.mod.go.jp/j/approach/defense/cyber/c_contest/
+
 - picoCTF(3/12~3/26)
-  https://picoctf.org/
+
+https://picoctf.org/
+
 - セキュリティキャンプ 全国大会 
   チューターかNOCとして参加したい
 - SecHack365
