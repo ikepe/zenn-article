@@ -35,21 +35,21 @@ https://zenn.dev/ikepe/articles/01f1c7e5a9f1ee
 
 - CSS 2023, MWS Cup
 研究室でMWS Cupに参加しました。勉強する時間が短く、スコアは思い通り行きませんでしたがもっと勉強したいと思うようになりました。
-https://x.com/ikepe_main/status/1719139421663248731
+https://twitter.com/ikepe_main/status/1719139421663248731
 
 ### 11月
 - ICTトラブルシューティングコンテスト(ICTSC)
   サークルのメンバーでICTSCに参加しました。点数は全然取れませんでしたが、勉強で知識がつきました。来年は本選に進みたいです。
-  https://x.com/ikepe_main/status/1735874090714767431
+  https://twitter.com/ikepe_main/status/1735874090714767431
 
 - セキュリティ・ミニキャンプ in 広島
   Zenn 書こうと思ってまだ途中までしか書けてない・・・
-  https://x.com/ikepe_main/status/1728202252807282989
+  https://twitter.com/ikepe_main/status/1728202252807282989
 
 ### 12月
 - IPv6 勉強会
   秋から月1で行われているIPv6勉強会で初めての対面開催でした。
-  https://x.com/ikepe_main/status/1739539483975176501
+  https://twitter.com/ikepe_main/status/1739539483975176501
 
 
 ## 2024年の目標
