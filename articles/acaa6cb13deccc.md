@@ -1,9 +1,9 @@
 ---
 title: "Diver OSINT CTF 2024 に参加しました"
-emoji: "🐈"
+emoji: "🏖️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CTF", "writeup", "OSINT"]
-published: false
+published: true
 ---
 
 ## はじめに
